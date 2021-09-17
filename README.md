@@ -5,7 +5,7 @@
 - 🌱 I’m currently a Ph. D student at USTC, research intern at MAD (Meituan Autonomous Delivery)
 - 🔭 I’m currently working on 3D perception and prediction
 - 📫 How to reach me: mdpustc@gmail.com
-- ⚡ Bobbies: Cycling, Table Tennis
+- ⚡ Hobbies: Cycling, Table Tennis
 
 <!--
 **DeppMeng/DeppMeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
