@@ -2,7 +2,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=DeppMeng&show_icons=true&theme=vue&hide_title=true" />
 
 
-- 🌱 I’m currently a Ph. D student at USTC, and a visiting scholar at University of Michigan, Traffic Lab.
+- 🌱 I’m currently a visiting scholar at the University of Michigan, Traffic Lab.
 - 🔭 I’m currently working on 3D perception and prediction
 - 📫 How to reach me: mdpustc@gmail.com
 - ⚡ Hobbies: Cycling, Table Tennis
