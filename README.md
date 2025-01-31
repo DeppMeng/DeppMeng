@@ -2,8 +2,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=DeppMeng&show_icons=true&theme=vue&hide_title=true" />
 
 
-- 🌱 I’m currently a Postdoc at the University of Michigan, Traffic Lab.
-- 🔭 I’m currently working on 3D perception and prediction
+- 🌱 I’m currently a Machine Learning Engineeer at DiDi Autonomous Driving.
+- 🔭 I’m currently working on sensor simulation, including camera novel view synthesis, object editing.
 - 📫 How to reach me: mdpustc@gmail.com
 - ⚡ Hobbies: Cycling, Table Tennis
 
