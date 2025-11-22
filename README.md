@@ -2,10 +2,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=DeppMeng&show_icons=true&theme=vue&hide_title=true" />
 
 
-- 🌱 I’m currently a Machine Learning Engineer at DiDi Autonomous Driving.
-- 🔭 I’m currently working on sensor simulation, including camera novel view synthesis, object editing.
+- 🌱 I’m currently a Research Engineer at Applied Intuition.
+- 🔭 I’m currently working on end-to-end autonomous driving and generative AI.
 - 📫 How to reach me: mdpustc@gmail.com
-- ⚡ Hobbies: Cycling, Table Tennis
 
 <!--
 **DeppMeng/DeppMeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
